@@ -10,12 +10,29 @@ Make your lines to curves</h3>
 Impressed by [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) but, to-smooth is dimension generalized version of [chaikin-smooth](https://github.com/Jam3/chaikin-smooth)
 you can use to-smooth instead of 2d only chaikin-smooth
 
-### from
-![image](https://user-images.githubusercontent.com/27716524/123362217-4e04e680-d5ab-11eb-842d-4fe9d586bbe1.png)
+ 
+ 
+<h1 align="center"><a href="https://openlayers.org/en/latest/examples/chaikin.html">Demo</a></h1>
 
-### to
-![image](https://user-images.githubusercontent.com/27716524/123362234-51986d80-d5ab-11eb-95ec-f748cdb5f822.png)
+<h3 align="center">
+From</h3>
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/27716524/123362217-4e04e680-d5ab-11eb-842d-4fe9d586bbe1.png"/>
+ </img>
+<p>
+
+
+<h3 align="center">
+To
+</h3>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/27716524/123362234-51986d80-d5ab-11eb-95ec-f748cdb5f822.png"/>
+ </img>
+<p>
+ 
+<br/>
+ 
 # Usage
 ```js
 import smooth from 'to-curve'
@@ -28,6 +45,8 @@ else if (geojson.geometry.type === 'MultiLineString')
   geojson.geometry.coordinates = geojson.geometry.coordinates.map(points => smooth(points))
 ```
 
+<br/>
+ 
 # Docs
 export default function
 `smooth(points, options: {iteration, factor} = {iteration: 1, factor: 0.75})`
@@ -49,7 +68,6 @@ same dimension point array like LineString Coordinates
   - do not have to change or assign
 
 
-# [Demo](https://openlayers.org/en/latest/examples/chaikin.html)
 
 ## License
 
