@@ -39,8 +39,8 @@ same dimension point array like LineString Coordinates
   - do not have to change or assign
 
 
-
-here is [Example usage](https://openlayers.org/en/latest/examples/chaikin.html)
+# Demo
+[Demo usage](https://openlayers.org/en/latest/examples/chaikin.html)
 
 
 
