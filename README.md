@@ -1,4 +1,10 @@
-# to-smooth
+<h1 align="center">To Smooth</h1>
+<h3 align="center">
+Make your lines to curves</h3>
+<p align="center">
+ <a href="https://lgtm.com/projects/g/seonglae/to-smooth/context:javascript"><img alt="undefined" src="https://img.shields.io/lgtm/grade/javascript/g/seonglae/to-smooth.svg?logo=lgtm&logoWidth=18"/>
+ </a>
+<p>
 
 [Chaikin's smoothing algorithm](http://www.idav.ucdavis.edu/education/CAGDNotes/Chaikins-Algorithm/Chaikins-Algorithm.html) for polylines of any dimensions.
 Impressed by [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) but, to-smooth is dimension generalized version of [chaikin-smooth](https://github.com/Jam3/chaikin-smooth)
