@@ -30,6 +30,8 @@ export default function
 ### points
 same dimension point array like LineString Coordinates
 
+- type - `Array<Array<number>>`
+
 ### options
 - `iteration`
   - default - 1
