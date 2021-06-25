@@ -31,11 +31,13 @@ export default function
 same dimension point array like LineString Coordinates
 
 ### options
-- iteration
+- `iteration`
   - default - 1
+  - description - if this increase, more smoother line return
   - iteration how many algorithm applied
-- factor
+- `factor`
   - default - 0.75
+  - range - 0.5 - 1
   - do not have to change or assign
 
 
