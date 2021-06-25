@@ -1,6 +1,8 @@
 # to-smooth
 
 [Chaikin's smoothing algorithm](http://www.idav.ucdavis.edu/education/CAGDNotes/Chaikins-Algorithm/Chaikins-Algorithm.html) for polylines of any dimensions.
+Impressed by [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) but, to-smooth is dimension generalized version of [chaikin-smooth](https://github.com/Jam3/chaikin-smooth)
+you can use to-smooth instead of 2d only chaikin-smooth
 
 ### from
 ![image](https://user-images.githubusercontent.com/27716524/123362217-4e04e680-d5ab-11eb-842d-4fe9d586bbe1.png)
@@ -42,8 +44,6 @@ here is [Example usage](https://openlayers.org/en/latest/examples/chaikin.html)
 
 
 
-to-smooth is dimension generalized version of [chaikin-smooth](https://github.com/Jam3/chaikin-smooth)
-you can use to-smooth instead of 2d only chaikin-smooth
 
 
 ## License
