@@ -1,0 +1,52 @@
+{
+  "name": "to-smooth",
+  "version": "2.0.0",
+  "description": "chaikin's smoothing algorithm for any dimension lines",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jam3/chaikin-smooth.git"
+  },
+  "keywords": [
+    "chaikin",
+    "smooth",
+    "polyline",
+    "2d",
+    "polygon",
+    "smoothing",
+    "chaikin's",
+    "smoother",
+    "algorithm",
+    "svg",
+    "shape",
+    "round",
+    "subdivide",
+    "points",
+    "line",
+    "path"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Seonglae Cho",
+    "email": "sungle3737@gmail.com",
+    "url": "http://www.seongland.com"
+  },
+  "contributors": [
+    {
+      "name": "Seonglae Cho",
+      "email": "sungle3737@gmail.com",
+      "url": "http://www.seongland.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seonglae/to-smooth/issues"
+  },
+  "homepage": "https://github.com/seonglae/to-smooth",
+  "devDependencies": {
+    "deepcopy": "^0.3.3"
+  }
+}
