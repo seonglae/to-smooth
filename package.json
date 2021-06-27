@@ -1,8 +1,8 @@
 {
   "name": "to-smooth",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "chaikin's smoothing algorithm for any dimension lines",
-  "main": "index.js",
+  "main": "dist/index.js",
   "type": "module",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "path"
   ],
   "files": [
-    "index.js"
+    "dist"
   ],
   "author": {
     "name": "Seonglae Cho",
@@ -47,6 +47,7 @@
   },
   "homepage": "https://github.com/seonglae/to-smooth",
   "devDependencies": {
-    "deepcopy": "^0.3.3"
+    "@types/node": "14.14.31",
+    "typescript": "4.3.4"
   }
 }
