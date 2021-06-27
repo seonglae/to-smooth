@@ -7,8 +7,9 @@ Make your lines to curves</h3>
 <p>
 
 [Chaikin's smoothing algorithm](http://www.idav.ucdavis.edu/education/CAGDNotes/Chaikins-Algorithm/Chaikins-Algorithm.html) for polylines of any dimensions.
-Impressed by [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) but, to-smooth is dimension generalized, version of [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) with iteration options
-you can use to-smooth instead of 2d only chaikin-smooth
+Impressed by [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) but, to-smooth is dimension generalized, version of [chaikin-smooth](https://github.com/Jam3/chaikin-smooth) with iteration options.
+ 
+You can use to-smooth instead of chaikin-smooth
 
  
  
