@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/Jam3/chaikin-smooth.git"
   },
+  "scripts": {
+    "build": "rm -rf ./dist && tsc"
+  },
   "keywords": [
     "chaikin",
     "smooth",
