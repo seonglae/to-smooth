@@ -1,6 +1,6 @@
 {
   "name": "to-smooth",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "chaikin's smoothing algorithm for any dimension lines",
   "main": "dist/index.js",
   "type": "module",
@@ -9,7 +9,8 @@
     "url": "https://github.com/Jam3/chaikin-smooth.git"
   },
   "scripts": {
-    "build": "rm -rf ./dist && tsc"
+    "build": "rm -rf ./dist && tsc",
+    "prepublish": "pnpm build"
   },
   "keywords": [
     "chaikin",
