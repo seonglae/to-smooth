@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jam3/chaikin-smooth.git"
+    "url": "https://github.com/seonglae/to-smooth.git"
   },
   "scripts": {
     "build": "rm -rf ./dist && tsc",
