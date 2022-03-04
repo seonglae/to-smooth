@@ -10,6 +10,8 @@ function smooth(
 ) {
   if (dimension && !path.every((point) => isMinSizeArray(point, dimension)))
     throw new Error('Dimension min size Error')
+  if (!factor) factor = 0.75
+  if (!iteration) iteration = 1
   while (iteration > 0) {
     path = singlesmooth(path, factor, dimension)
     iteration--
