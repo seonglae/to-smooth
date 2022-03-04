@@ -1,8 +1,8 @@
 export type integer = number
 
 export type SmoothOption = {
-  factor: number
-  iteration: integer
+  factor?: number
+  iteration?: integer
   dimension?: integer
 }
 
