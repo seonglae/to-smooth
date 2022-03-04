@@ -1,6 +1,6 @@
 {
   "name": "to-smooth",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "chaikin's smoothing algorithm for any dimension lines",
   "main": "dist/index.js",
   "type": "module",
