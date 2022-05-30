@@ -52,7 +52,7 @@
   "homepage": "https://github.com/seonglae/to-smooth",
   "devDependencies": {
     "@types/node": "16.11.36",
-    "tsup": "^5.12.8",
+    "tsup": "^6.0.1",
     "typescript": "4.6.4"
   }
 }
