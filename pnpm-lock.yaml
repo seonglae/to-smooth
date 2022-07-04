@@ -1,13 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': 16.11.41
-  tsup: ^6.1.2
+  '@types/node': 16.11.43
+  tsup: ^6.1.3
   typescript: 4.7.4
 
 devDependencies:
-  '@types/node': 16.11.41
-  tsup: 6.1.2_typescript@4.7.4
+  '@types/node': 16.11.43
+  tsup: 6.1.3_typescript@4.7.4
   typescript: 4.7.4
 
 packages:
@@ -33,8 +33,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@types/node/16.11.41:
-    resolution: {integrity: sha512-mqoYK2TnVjdkGk8qXAVGc/x9nSaTpSrFaGFm43BUH3IdoBV0nta6hYaGmdOvIMlbHJbUEVen3gvwpwovAZKNdQ==}
+  /@types/node/16.11.43:
+    resolution: {integrity: sha512-GqWykok+3uocgfAJM8imbozrqLnPyTrpFlrryURQlw1EesPUCx5XxTiucWDSFF9/NUEXDuD4bnvHm8xfVGWTpQ==}
     dev: true
 
   /any-promise/1.3.0:
@@ -747,8 +747,8 @@ packages:
     resolution: {integrity: sha512-Y/arvbn+rrz3JCKl9C4kVNfTfSm2/mEp5FSz5EsZSANGPSlQrpRI5M4PKF+mJnE52jOO90PnPSc3Ur3bTQw0gA==}
     dev: true
 
-  /tsup/6.1.2_typescript@4.7.4:
-    resolution: {integrity: sha512-Hw4hKDHaAQkm2eVavlArEOrAPA93bziRDamdfwaNs0vXQdUUFfItvUWY0L/F6oQQMVh6GvjQq1+HpDXw8UKtPA==}
+  /tsup/6.1.3_typescript@4.7.4:
+    resolution: {integrity: sha512-eRpBnbfpDFng+EJNTQ90N7QAf4HAGGC7O3buHIjroKWK7D1ibk9/YnR/3cS8HsMU5T+6Oi+cnF+yU5WmCnB//Q==}
     engines: {node: '>=14'}
     hasBin: true
     peerDependencies:
