@@ -1,12 +1,12 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': 16.11.48
+  '@types/node': 16.11.52
   tsup: ^6.2.2
   typescript: 4.7.4
 
 devDependencies:
-  '@types/node': 16.11.48
+  '@types/node': 16.11.52
   tsup: 6.2.2_typescript@4.7.4
   typescript: 4.7.4
 
@@ -42,8 +42,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@types/node/16.11.48:
-    resolution: {integrity: sha512-Z9r9UWlNeNkYnxybm+1fc0jxUNjZqRekTAr1pG0qdXe9apT9yCiqk1c4VvKQJsFpnchU4+fLl25MabSLA2wxIw==}
+  /@types/node/16.11.52:
+    resolution: {integrity: sha512-GnstYouCa9kbYokBCWEVrszJ1P2rGAQpKrqACHKuixkaT8XGu8nsqHvEUIGqDs5vwtsJ7LrYqnPDKRD1V+M39A==}
     dev: true
 
   /any-promise/1.3.0:
