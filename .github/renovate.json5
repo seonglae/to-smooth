@@ -3,7 +3,10 @@
   labels: ['dependencies'],
   pin: false,
   rangeStrategy: 'bump',
-  packageRules: [{ depTypeList: ['peerDependencies'], enabled: false }],
+  packageRules: [{
+      "matchPackagePatterns": ["*"],
+	      "automerge": true
+    }, { depTypeList: ['peerDependencies'], enabled: false }],
   dependencyDashboardTitle: "deps: renovate dependency dashboard",
   branchPrefix: "deps/",
   commitMessagePrefix: "deps:"
