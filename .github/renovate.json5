@@ -4,9 +4,9 @@
   pin: false,
   rangeStrategy: 'bump',
   packageRules: [{
-      "matchPackagePatterns": ["*"],
-	      "automerge": true
-    }, { depTypeList: ['peerDependencies'], enabled: false }],
+    "matchPackagePatterns": ["*"],
+    "automerge": true
+  }, { depTypeList: ['peerDependencies'], enabled: false }],
   dependencyDashboardTitle: "deps: renovate dependency dashboard",
   branchPrefix: "deps/",
   commitMessagePrefix: "deps:"
