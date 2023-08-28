@@ -51,8 +51,8 @@
   },
   "homepage": "https://github.com/seonglae/to-smooth",
   "devDependencies": {
-    "@types/node": "18.17.6",
+    "@types/node": "18.17.12",
     "tsup": "^7.2.0",
-    "typescript": "5.1.6"
+    "typescript": "5.2.2"
   }
 }
