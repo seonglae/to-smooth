@@ -2,7 +2,7 @@
 <h3 align="center">
 Make your lines to curves</h3>
 <p align="center">
- <a href="https://lgtm.com/projects/g/seonglae/to-smooth/context:javascript"><img alt="undefined" src="https://img.shields.io/lgtm/grade/javascript/g/seonglae/to-smooth.svg?logo=lgtm&logoWidth=18"/>
+ <a href="https://www.npmjs.com/package/to-smooth"><img alt="downloads" src="https://img.shields.io/npm/d18m/to-smooth"/>
  </a>
 <p>
 
